@@ -1,0 +1,5 @@
+{
+  "name": "NovaOS",
+  "description": "A refined, Windows 11-inspired WebOS with file management, authentication, and persistent user content.",
+  "requestFramePermissions": []
+}
